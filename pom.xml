@@ -62,6 +62,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkins-docker-integration</finalName>
 	</build>
 
 </project>
